@@ -17,5 +17,7 @@ html{
 	width: 100vw;
 	height: 100vh;
 	background: #7E769B;
-	background-image: url(olen_planeta_art.jpg);
+	background-image: url('olen_planeta_art.jpg');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
 }
